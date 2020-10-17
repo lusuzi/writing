@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
 date: 2020-10-16T20:45:35+08:00
-draft: true
 tags: ["hugo"]
 ---
 
