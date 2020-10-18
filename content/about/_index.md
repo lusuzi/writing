@@ -2,6 +2,7 @@
 title: "关于"
 date: 2020-10-16T23:06:09+08:00
 displayCopyright: false
+gitinfo: false
 ---
 
 这是一个..用于纯写作..的**现代电子移动笔记本**。为了专注写作，采用极简风格，很多功能都没开启。这个笔记本**由 Hugo 驱动**，与 [Hexo](https://hexo.io/) 相比，[Hugo](https://gohugo.io/) 的编译速度可称为飞速🚀 ，未来若累计多达几百篇文章时，也不用担心每次更新笔记本太麻烦。且使用 [Github Actions](https://github.com/features/actions) 实现持续集成部署，改正文章内容或更新仓库代码后将自动重新部署。

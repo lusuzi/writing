@@ -16,23 +16,8 @@
     text-decoration-color: #6392ce;
 }
 
-.post-body em {
-    font-style: normal;
-    font-weight: bold;
-}
-
 table {
-    text-align: justify;
-}
-
-
-.post-body hr {
-    margin: 2em 0;
-    background-image: linear-gradient(90deg, #fff 0, #434343 35%, #000 50%, #434343 65%, #fff 100%);
-    background-size: cover;
-    background-repeat: no-repeat;
-    border: aliceblue;
-    height: 2px;
+    text-align: center;
 }
 
 .list-title, .term-title, .list-year, .list-month {
@@ -60,12 +45,15 @@ table {
 .tech {
     color: #a166ab;
 }
+.acad {
+    color: #1bcdfc;
+}
 .about {
     color: #07b39b;
 }
 
 .menu-item {
-    .life, .tech, .about {
+    .life, .acad, .tech, .about {
         display: none;
     }
 }
@@ -85,7 +73,7 @@ table {
         margin: 2em 0;
     }
     .menu-item {
-        .life, .tech, .about {
+        .life, .acad, .tech, .about {
             display: inline-block;
         }
     }
