@@ -5,3 +5,11 @@ tags: ["test"]
 ---
 
 学术与技术是有区别的。
+
+---
+
+``` python
+def a:
+    print(b)
+```
+
