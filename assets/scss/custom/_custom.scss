@@ -6,22 +6,27 @@
     max-width: 50%;
 }
 
-.main-inner .minimal-footer {
-	margin-top: 1rem; 
+.post-gitinfo {
+	margin-bottom: -5.5em;
 }
 
 .post-body {
     margin-top: 4em !important;
 }
 
-.post-body p > a {
-    color: #6392ce;
-    text-decoration-color: #6392ce;
+.post-body a {
+    text-decoration-color: #313135;
 }
 
-.post-body p > a:hover {
-    color: #6392ce;
-    text-decoration-color: #6392ce;
+.header-wrapper {
+	background-color: linear-gradient(45deg,rgba(247,149,51,.08) 0,rgba(243,112,85,.08) 15%,rgba(239,78,123,.08) 30%,rgba(161,102,171,.08) 44%,rgba(80,115,184,.08) 58%,rgba(16,152,173,.08) 72%,rgba(7,179,155,.08) 86%,rgba(109,186,130,.08) 100%);
+	background-image: linear-gradient(45deg, rgba(247, 149, 51, 0.08) 0px, rgba(243, 112, 85, 0.08) 15%, rgba(239, 78, 123, 0.08) 30%, rgba(161, 102, 171, 0.08) 44%, rgba(80, 115, 184, 0.08) 58%, rgba(16, 152, 173, 0.08) 72%, rgba(7, 179, 155, 0.08) 86%, rgba(109, 186, 130, 0.08) 100%);
+	backdrop-filter: saturate(200%) blur(1em);
+	}
+
+label.nav-curtain {
+	background-color: none;
+	background-image: none;
 }
 
 table {
