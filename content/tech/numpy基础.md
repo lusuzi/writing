@@ -1,7 +1,7 @@
 ---
 title: "Numpy基础"
 date: 2021-06-20T12:25:11+08:00
-draft: true
+draft: false
 tags: [python, 数据分析]
 ---
 

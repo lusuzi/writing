@@ -1,7 +1,8 @@
 ---
 title: "Pandas入门"
 date: 2021-06-20T14:03:46+08:00
-draft: true
+draft: false
+tags: [python, 数据分析]
 ---
 
 pandas它有两种主要的数据结构。

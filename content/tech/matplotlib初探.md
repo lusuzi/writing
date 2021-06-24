@@ -1,7 +1,8 @@
 ---
 title: "Matplotlib初探"
 date: 2021-06-20T17:22:31+08:00
-draft: true
+draft: false
+tags: [python, 数据分析]
 ---
 
 ## matplotlib相关资源
