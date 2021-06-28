@@ -6,6 +6,11 @@ dropCap: false
 tags: [编程, 递归]
 ---
 
+### 相关资源
+
+- [自学计算机科学](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+- [伯克利大学编程课(python)](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
+
 ### 递归
 
 [Luhn算法](https://zh.wikipedia.org/zh-hans/Luhn%E7%AE%97%E6%B3%95)是一种简单的校验和算法，方式是对一串数字，从校验位开始从右往左，偶数位乘2，奇数位不变，两位数字的个位与十位相加，最后把所有得到的数字相加即为校验和。

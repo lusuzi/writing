@@ -352,8 +352,6 @@ plt.title('男女平均年收入', pad=20)
 plt.show()
 ```
 
-![pie1](images/matplotlib初探/pie1.png)
-
 ![pie1](../images/matplotlib初探/pie1.png)
 
 ## 条形图
@@ -395,8 +393,6 @@ for x,y in enumerate(y_data):
 plt.savefig('bar1.png')
 plt.show()
 ```
-
-![bar1](images/matplotlib初探/bar1.png)
 
 ![bar1](../images/matplotlib初探/bar1.png)
 
